@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
